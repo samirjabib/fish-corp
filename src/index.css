@@ -7,4 +7,5 @@
 body{
     background-color: #FDFFFC;
     font-family: 'PT Sans', sans-serif;
+    box-sizing: border-box;
 }
