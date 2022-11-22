@@ -1,9 +1,9 @@
 import AppRouter from "../../routes/AppRouter";
-import { Header } from "../components";
+import { Header } from "../views";
 
 export const Layout = () => {
     return (
-        <div>
+        <div className="relative">
             <Header/>
             <AppRouter/>
         </div>
